@@ -1,4 +1,4 @@
-# Assessing health facilities coverage for maternal healthcare using GRID3 population estimates in Kaduna state.
+# Practical 2: Assessing health facilities coverage for maternal healthcare using GRID3 population estimates in Kaduna state.
 
 Using GRID3 data:
 - Population data for women aged 15-49
